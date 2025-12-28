@@ -50,8 +50,8 @@ When gas is normal, calculates fees based on:
 ### 🛡️ Gas-Based Emergency Fees
 Monitors network gas prices and automatically increases fees when bot activity spikes:
 
-| Gas Level | Condition | Action |
-|-----------|-----------|--------|
+| Gas Level | Condition | Action | % max |
+|-----------|-----------|--------| ------- |
 | Normal | Low gas | Dynamic fees active |  1% Max
 | High | Elevated activity | 5.6x multiplier |  1% Max
 | Very High | Heavy congestion | 6.5x multiplier | 1% Max
