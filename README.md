@@ -4,7 +4,7 @@
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.26-blue.svg)](https://soliditylang.org/)
 [![Uniswap v4](https://img.shields.io/badge/Uniswap-v4-ff007a.svg)](https://uniswap.org/)
 
-Professional-grade Uniswap v4 hook for liquidity provider protection. Automatically increases fees during bot attacks (gas-based detection), adjusts dynamically to volatility and volume conditions, penalizes rapid-fire swaps, and caps fees with circuit breakers.
+Professional-grade Uniswap v4 hook for liquidity provider protection. Automatically increases fees during bot attacks , adjusts dynamically to volatility and volume conditions, penalizes rapid-fire swaps, and caps fees with circuit breakers.
 
 ## 🚀 Deployed Networks
 
