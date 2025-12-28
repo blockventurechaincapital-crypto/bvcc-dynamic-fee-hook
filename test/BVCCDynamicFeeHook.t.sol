@@ -13,7 +13,7 @@ import {Hooks} from "@uniswap/v4-core/src/libraries/Hooks.sol";
 import {LPFeeLibrary} from "@uniswap/v4-core/src/libraries/LPFeeLibrary.sol";
 import {TickMath} from "@uniswap/v4-core/src/libraries/TickMath.sol";
 import {ModifyLiquidityParams} from "@uniswap/v4-core/src/types/PoolOperation.sol";
-import {BVCCDynamicFeeHook} from "../src/BVCCDynamicFeeHook_v4.3.sol";
+import {BVCCDynamicFeeHook} from "../src/BVCCDynamicFeeHook.sol";
 
 contract BVCCDynamicFeeHookTest is Test, Deployers {
     using PoolIdLibrary for PoolKey;
