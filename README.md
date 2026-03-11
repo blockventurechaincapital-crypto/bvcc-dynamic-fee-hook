@@ -184,9 +184,9 @@ function unpauseAll(PoolKey key) external;
 
 MIT License - see [LICENSE](LICENSE) for details.
 
-## 🤝 Contributing
+## 🤝 Contributors
 
-Contributions are welcome! Please open an issue or submit a pull request.
+- **Rami8612** — Lead developer
 
 ## 📞 Contact
 
